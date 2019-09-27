@@ -1,0 +1,10 @@
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe.config
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.pdb
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csprojAssemblyReference.cache
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Form1.resources
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Properties.Resources.resources
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.GenerateResource.cache
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.CoreCompileInputs.cache
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
+D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
