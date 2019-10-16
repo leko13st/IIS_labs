@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<ArrayOfRules xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Rules>
+<Name>кулер работает</Name>
+<Conds>
+<string>"кулер работает" = "null"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"кулер работает" = func("кулер чистый (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>вентилятор крутится</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"вентилятор крутится" = func("вентилятор крутится (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>вирусы на компе</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"вентилятор крутится" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"вирусы на компе" = func("компьютер заражён вирусами (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>сбой драйверов</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"вентилятор крутится" = "да"</string>
+<string>"вирусы на компе" = "нет"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"сбой драйверов" = func("есть сбой драйверов (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>блок питания сломан</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"вентилятор крутится" = "да"</string>
+<string>"вирусы на компе" = "нет"</string>
+<string>"сбой драйверов" = "нет"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"блок питания сломан" = func("блок питания холодный (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>оголённые провода</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"вентилятор крутится" = "да"</string>
+<string>"вирусы на компе" = "нет"</string>
+<string>"сбой драйверов" = "нет"</string>
+<string>"блок питания сломан" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"оголённые провода" = func("провода оголены (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>плохой кабель менеджмент</Name>
+<Conds>
+<string>"оголённые провода" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"плохой кабель менеджмент" = func("плохой кабель менеджмент (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>кулер цп сломан</Name>
+<Conds>
+<string>or "кулер работает" = "нет"</string>
+<string>or "вентилятор крутится" = "нет"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"кулер цп сломан" = "да"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>сбой ПО</Name>
+<Conds>
+<string>or "вирусы на компе" = "да"</string>
+<string>or "сбой драйверов" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"сбой ПО" = "да"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>повреждены провода</Name>
+<Conds>
+<string>"оголённые провода" = "да"</string>
+<string>"плохой кабель менеджмент" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"повреждены провода" = "да"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>не видит жд</Name>
+<Conds>
+<string>or "сбой ПО" = "да"</string>
+<string>or "повреждены провода" = "да"</string>
+</Conds>
+<Ans>
+"не видит жд" = "да"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>странные звуки</Name>
+<Conds>
+<string>"не видит жд" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"странные звуки" = func("есть странные звуки (да/нет) ?")
+</Ans>
+</Rules>
+
+<Rules>
+<Name>проблема с питанием</Name>
+<Conds>
+<string>"повреждены провода" = "да"</string>
+<string>"блок питания сломан" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"ответ" = "проблема с питанием"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>сбой жд</Name>
+<Conds>
+<string>"странные звуки" = "да"</string>
+<string>"не видит жд" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"ответ" = "сбой жд"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>сбой процессора</Name>
+<Conds>
+<string>or "кулер цп сломан" = "да"</string>
+<string>or "повреждены провода" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"ответ" = "сбой процессора"
+</Ans>
+</Rules>
+
+<Rules>
+<Name>неизвестно</Name>
+<Conds>
+<string>"кулер работает" = "да"</string>
+<string>"вентилятор крутится" = "да"</string>
+<string>"вирусы на компе" = "нет"</string>
+<string>"сбой драйверов" = "нет"</string>
+<string>"блок питания сломан" = "нет"</string>
+<string>"повреждены провода" = "нет"</string>
+<string>"плохой кабель менеджмент" = "да"</string>
+<string>"ответ" = "null"</string>
+</Conds>
+<Ans>
+"ответ" = "неизвестно"
+</Ans>
+</Rules>
+</ArrayOfRules>

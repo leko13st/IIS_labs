@@ -9,5 +9,6 @@ namespace lab2_ExpertSystem
         public string[] Conds { get; set; }
         public string Ans { get; set; }
         public bool isExist { get; set; }
+        public bool isOld { get; set; }
     }
 }

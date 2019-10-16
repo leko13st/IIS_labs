@@ -8,3 +8,41 @@ D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab
 D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.CoreCompileInputs.cache
 D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
 D:\MyDocs\VisualStudioProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe.config
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.pdb
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csprojAssemblyReference.cache
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Form1.resources
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Properties.Resources.resources
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.GenerateResource.cache
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.CoreCompileInputs.cache
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
+C:\MyDocs\VsProjects\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe.config
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.pdb
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csprojAssemblyReference.cache
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Form1.resources
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Properties.Resources.resources
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.GenerateResource.cache
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
+D:\Для учёбы\7 семестр\Истомин\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe.config
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.pdb
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csprojAssemblyReference.cache
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Form1.resources
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Properties.Resources.resources
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.GenerateResource.cache
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
+C:\Users\lekom\Desktop\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe.config
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.exe
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\bin\Debug\lab2_ExpertSystem.pdb
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csprojAssemblyReference.cache
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Form1.resources
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.Properties.Resources.resources
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.csproj.GenerateResource.cache
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.exe
+D:\Для учёбы\7 семестр\Истомин\Новая папка\lab2_ExpertSystem\lab2_ExpertSystem\obj\Debug\lab2_ExpertSystem.pdb
